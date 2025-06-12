@@ -12,7 +12,8 @@ Started learning DSA on 9th June 2025. I will be consistent this time.
 ### Data  Types cheatsheet
 ![Datatypes](./Images/datatypes.png)
 
-
+---
+---
 ## Day 2 (11th June 2025)
 
 ### To-do
@@ -49,3 +50,17 @@ Started learning DSA on 9th June 2025. I will be consistent this time.
 - Calculate in term of `worst` case. case scenario. `Why?` find out it.
 - Avoid contants. 
 - Avoid lower value.
+
+### Space Complexity
+- Big-on(O)
+- SC = Auxiliary Space + Input Space
+- AS = Space that you take to solve the problem
+- IS = The space that you take to store the input
+---
+---
+## Day 3 12th June
+### Patterns
+- For the outer loop count the no of lines
+- For the innter loop, focus on the colums and connect them somwhow to the rows
+- Print them inside the inner for loop
+- Observe symmentry [optional]
